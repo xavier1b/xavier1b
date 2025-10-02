@@ -8,11 +8,11 @@ nav_order: 1
 
 ![Logo del proyecto](/assets/images/proyecto.jpg)
 
-## 📖 Descripción General
+## Descripción General
 
 El **Proyecto Problemas Críticos Oportunidades y Buenas Prácticas para Prevenir y Responder ante la Violencia Basada en Género en las Instituciones de Educación Superior del Ecuador** es una iniciativa de colaboración internacional con la cooperación de VLIR UOS y el apoyo de KU Leuven, liderada por la Universidad Andina Simón Bolívar sede Ecuador. Con el objetivo de fortalecer las capacidades institucionales para prevenir y enfrentar la violencia basada en género, el proyecto se estructuró en tres componentes fundamentales: 
 
-### 🎯 Componentes Principales
+### Componentes Principales
 - Diagnóstico Crítico
 - Curso de Formación Innovador  
 - Plan de Acción a Largo Plazo
@@ -24,7 +24,7 @@ El **Proyecto Problemas Críticos Oportunidades y Buenas Prácticas para Preveni
 - Universidad Nacional de Loja
 - Universidad Politécnica Salesiana
 
-## 📊 Alcance y Duración
+##  Alcance y Duración
 
 **Duración:** 2023 - 2025
 
