@@ -10,10 +10,18 @@ has_toc: false
 
 Bienvenido al repositorio de documentos del Proyecto "Problemas Críticos Oportunidades y Buenas Prácticas para Prevenir y Responder ante la Violencia Basada en Género en las Instituciones de Educación Superior del Ecuador".
 
-## Acceso Rápido
+## Acceso Rápido a las colecciones
 
 - 📚 **Marco legal, Políticas y Protocolos**
 - 🔬 **Literatura especializada en VBG** 
 - 📊 **Productos de Investigación**
 
-Utiliza el buscador superior o navega por el menú lateral.
+## 🔍 Cómo Utilizar esta Biblioteca
+
+1. **Búsqueda rápida**: Usa el buscador en la parte superior
+2. **Navegación por categorías**: Explora el menú lateral
+3. **Acceso directo**: Usa los enlaces de arriba para acceso rápido
+
+---
+
+*Última actualización: 2/10/2025*
