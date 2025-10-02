@@ -1,8 +1,10 @@
 title: "Biblioteca del Proyecto VLIR-VG"
 description: "Productos del proyecto"
-theme: just-the-docs
-
+remote_theme: just-the-docs/just-the-docs
 url: "https://xavier1b.github.io"
+
+# Logo (si tienes la imagen)
+# logo: "/assets/images/proyecto.jpg"
 
 # Configuración básica
 search_enabled: true
@@ -11,21 +13,18 @@ heading_anchors: true
 # Enlaces del footer
 footer_content: "Copyright &copy; 2025 Proyecto VLIR-VG."
 
-# Orden de navegación
-nav_order: 1
-# Configuración de navegación
+# Configuración de navegación CORREGIDA
 nav_external_links:
   - title: "Presentación"
     url: "/presentacion"
   - title: "Inicio"
     url: "/"
-    children:
-      - title: "Marco legal, Políticas y Protocolos"
-        url: "/Marco legal, Políticas y Protocolos"
-      - title: "Literatura especializada en VBG"
-        url: "/Literatura especializada en VBG" 
-      - title: "Productos de Investigación"
-        url: "/Productos de Investigación"
+  - title: "Marco Legal, Políticas y Protocolos"
+    url: "/leyes"
+  - title: "Literatura Especializada en VBG"
+    url: "/literatura" 
+  - title: "Productos de Investigación"
+    url: "/productos"
 
 # Para que se muestren los children automáticamente
 nav_fold: true
