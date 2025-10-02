@@ -1,20 +1,19 @@
 ---
 title: "Inicio"
 layout: default
-nav_order: 1
+nav_order: 2
+has_children: true
+has_toc: false
 ---
 
-# Biblioteca del Proyecto VLIR-VG
+# Biblioteca Digital
 
-Bienvenido a nuestra biblioteca de documentos especializados.
+Bienvenido al repositorio de documentos del Proyecto "Problemas Críticos Oportunidades y Buenas Prácticas para Prevenir y Responder ante la Violencia Basada en Género en las Instituciones de Educación Superior del Ecuador".
 
-## 📚 Colecciones Disponibles
+## Acceso Rápido
 
-- **Leyes y Normativas**
-- **Artículos Científicos** 
-- **Productos**
+- 📚 **Marco legal, Políticas y Protocolos**
+- 🔬 **Literatura especializada en VBG** 
+- 📊 **Productos de Investigación**
 
-
-## 🔍 Cómo Usar este Sitio
-
-Utiliza el buscador en la parte superior o navega por las categorías en el menú lateral.
+Utiliza el buscador superior o navega por el menú lateral.
