@@ -13,3 +13,19 @@ footer_content: "Copyright &copy; 2025 Proyecto VLIR-VG."
 
 # Orden de navegación
 nav_order: 1
+# Configuración de navegación
+nav_external_links:
+  - title: "Presentación"
+    url: "/presentacion"
+  - title: "Inicio"
+    url: "/"
+    children:
+      - title: "Marco legal, Políticas y Protocolos"
+        url: "/Marco legal, Políticas y Protocolos"
+      - title: "Literatura especializada en VBG"
+        url: "/Literatura especializada en VBG" 
+      - title: "Productos de Investigación"
+        url: "/Productos de Investigación"
+
+# Para que se muestren los children automáticamente
+nav_fold: true
