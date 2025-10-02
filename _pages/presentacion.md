@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# 🎯 Proyecto VLIR-VG
+#  Proyecto VLIR-VG
 
 ![Logo del proyecto](/assets/images/proyecto.jpg)
 
