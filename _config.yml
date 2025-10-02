@@ -4,7 +4,7 @@ remote_theme: just-the-docs/just-the-docs
 url: "https://xavier1b.github.io"
 
 # Logo (si tienes la imagen)
-# logo: "/assets/images/proyecto.jpg"
+logo: "/assets/images/proyecto.jpg"
 
 # Configuración básica
 search_enabled: true
