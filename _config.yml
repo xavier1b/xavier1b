@@ -12,13 +12,13 @@ nav_fold: true
 # Configuración de navegación
 nav_external_links:
   - title: "Presentación"
-    url: "/presentacion"
+    url: "pages/presentacion.md"
   - title: "Inicio"
     url: "/"
   - title: "Marco Legal, Políticas y Protocolos"
-    url: "/leyes"
+    url: "/leyes.md"
   - title: "Literatura Especializada en VBG"
-    url: "/literatura" 
+    url: "_pages/literatura.md" 
   - title: "Productos de Investigación"
     url: "/productos"
 
