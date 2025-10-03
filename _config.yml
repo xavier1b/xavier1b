@@ -3,12 +3,14 @@ description: "Productos del proyecto"
 theme: just-the-docs
 url: "https://xavier1b.github.io"
 
-# Enlaces del footer
-footer_content: "Copyright &copy; 2025 Proyecto VLIR-VG."
-
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 # Para que se muestren los children automáticamente
 nav_fold: true
+
 # Configuración de navegación
 nav_external_links:
   - title: "Presentación"
@@ -28,3 +30,6 @@ heading_anchors: true
 
 # Logo (si lo tienes)
 logo: "/assets/images/proyecto.jpg"
+
+# Enlaces del footer
+footer_content: "Copyright &copy; 2025 Proyecto VLIR-VG."
