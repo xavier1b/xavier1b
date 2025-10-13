@@ -7,23 +7,32 @@ collections:
   pages:
     output: true
     permalink: /:path/
+
 defaults:
   - scope:
       path: ""
       type: pages
     values:
       layout: default
-      
-# Para que se muestren los children automáticamente
-nav_fold: true
 
-# Configuración básica
+nav_fold: true
 search_enabled: true
 heading_anchors: true
 
-# Logo 
 logo: "/assets/images/proyecto.jpg"
 
-# Enlaces del footer
 footer_content: "Copyright &copy; 2025 Proyecto VLIR-VG."
+
+nav_external_links:
+  - title: "Inicio"
+    url: "/"
+  - title: "Presentación"
+    url: "/presentacion"
+  - title: "Marco Legal, Políticas y Protocolos"
+    url: "/leyes"
+  - title: "Literatura Especializada en VBG"
+    url: "/literatura"
+  - title: "Productos de Investigación"
+    url: "/productos"
+
 
