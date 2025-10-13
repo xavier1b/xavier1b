@@ -12,5 +12,5 @@ Publicaciones científicas y papers de investigación.
 ## Áreas Temáticas
 
 - Metodologías
-- [Investigaciones](_pages/investigaciones.md)
+- [Investigaciones](https://xavier1b.github.io/xavier1b/investigaciones/)
 
