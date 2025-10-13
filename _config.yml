@@ -7,7 +7,13 @@ collections:
   pages:
     output: true
     permalink: /:path/
-
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      
 # Para que se muestren los children automáticamente
 nav_fold: true
 
@@ -15,7 +21,7 @@ nav_fold: true
 search_enabled: true
 heading_anchors: true
 
-# Logo (si lo tienes)
+# Logo 
 logo: "/assets/images/proyecto.jpg"
 
 # Enlaces del footer
