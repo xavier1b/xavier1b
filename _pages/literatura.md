@@ -12,5 +12,5 @@ Publicaciones científicas y papers de investigación.
 ## Áreas Temáticas
 
 - Metodologías
-- Investigaciones
+- [Investigaciones](/literatura/investigaciones/)
 
