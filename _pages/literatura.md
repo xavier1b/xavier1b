@@ -1,9 +1,9 @@
 ---
 title: "Literatura especializada en VBG"
 layout: default
-parent: Inicio
 nav_order: 2
 has_children: true
+permalink: /literatura/
 ---
 
 # Artículos Científicos
