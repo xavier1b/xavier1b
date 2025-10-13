@@ -2,7 +2,7 @@
 title: "Investigaciones"
 parent: "Literatura especializada en VBG"
 nav_order: 1
-permalink: /literatura/investigaciones/
+permalink: /investigaciones/
 layout: default
 ---
 # Investigaciones Aplicadas en VBG
