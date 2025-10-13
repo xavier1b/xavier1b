@@ -32,6 +32,8 @@ nav_external_links:
     url: "/leyes"
   - title: "Literatura Especializada en VBG"
     url: "/literatura"
+  - title: "Investigaciones"
+    url: "/investigaciones"
   - title: "Productos de Investigación"
     url: "/productos"
 
