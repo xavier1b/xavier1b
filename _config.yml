@@ -11,19 +11,6 @@ collections:
 # Para que se muestren los children automáticamente
 nav_fold: true
 
-# Configuración de navegación
-nav_external_links:
-  - title: "Presentación"
-    url: "/presentacion"
-  - title: "Inicio"
-    url: "/"
-  - title: "Marco Legal, Políticas y Protocolos"
-    url: "/leyes"
-  - title: "Literatura Especializada en VBG"
-    url: "/literatura" 
-  - title: "Productos de Investigación"
-    url: "/productos"
-
 # Configuración básica
 search_enabled: true
 heading_anchors: true
@@ -33,3 +20,4 @@ logo: "/assets/images/proyecto.jpg"
 
 # Enlaces del footer
 footer_content: "Copyright &copy; 2025 Proyecto VLIR-VG."
+
